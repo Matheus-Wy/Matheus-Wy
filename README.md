@@ -1,5 +1,4 @@
-# Olá, eu sou Matheus 👋
-## Desenvolvedor Full Stack
+# Olá, eu sou Matheus Wyllamy👋
 
 - 🔭 Apaixonado por Tennologia e inovação
 - 📚 Graduado em Analise e desenvolvimento de sistemas
@@ -9,6 +8,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Wy&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Wy&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+
+
+
+## Tecnologias que uso no meu dia a dia
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
